@@ -1,0 +1,52 @@
+Name	SMILES	Activity	Ref1	Ref2	Ref3	Ref4	Ref5	Ref6	Ref7	Ref8	Ref9	ChemBL_ID	PubChem_CID
+Mitoxantrone	C1=CC(=C2C(=C1NCCNCCO)C(=O)C3=C(C=CC(=C3C2=O)O)O)NCCNCCO	BCRP_substrate	1										4212
+Bisantrene	C1CN=C(N1)NN=CC2=C3C=CC=CC3=C(C4=CC=CC=C42)C=NNC5=NCCN5	BCRP_substrate	1										5351322
+Aza-anthrapyrazole (BBR3390)	C1=CC=C2C=C3C(=CC2=C1)C=CC4=NNN=C43	BCRP_substrate	1										87489584
+Topotecan	CCC1(C2=C(COC1=O)C(=O)N3CC4=CC5=C(C=CC(=C5CN(C)C)O)N=C4C3=C2)O	BCRP_substrate	1									CHEMBL84	
+SN-38	CCC1=C2CN3C(=CC4=C(C3=O)COC(=O)C4(CC)O)C2=NC5=C1C=C(C=C5)O	BCRP_substrate	1										104842
+Irinotecan	CCC1=C2CN3C(=CC4=C(C3=O)COC(=O)C4(CC)O)C2=NC5=C1C=C(C=C5)OC(=O)N6CCC(CC6)N7CCCCC7	BCRP_substrate	1										60838
+Diflomotecan	CCC1(CC(=O)OCC2=C1C=C3C4=C(CN3C2=O)C=C5C=C(C(=CC5=N4)F)F)O	BCRP_substrate	1									CHEMBL306280	
+Methotrexate	CN(CC1=CN=C2C(=N1)C(=NC(=N2)N)N)C3=CC=C(C=C3)C(=O)NC(CCC(=O)O)C(=O)O	BCRP_substrate	1									CHEMBL34259	
+Methotrexate-Glu2	CN(Cc1cnc2nc(N)nc(N)c2n1)c1ccc(C(=O)N[C@@H](CCC(=O)N[C@@H](CCC(=O)N[C@@H](CCC(=O)O)C(=O)O)C(=O)O)C(=O)O)cc1	BCRP_substrate	1									CHEMBL2074970	
+Methotrexate-Glu3	CN(Cc1cnc2nc(N)nc(N)c2n1)c1ccc(C(=O)N[C@@H](CCC(=O)N[C@@H](CCC(=O)N[C@@H](CCC(=O)N[C@@H](CCC(=O)O)C(=O)O)C(=O)O)C(=O)O)C(=O)O)cc1	BCRP_substrate	1									CHEMBL2074969	
+AZT	CC1=CN(C(=O)NC1=O)C2CC(C(O2)CO)N=[N+]=[N-]	BCRP_substrate	1										35370
+AZT 5′-monophosphate	CC1=CN(C(=O)NC1=O)C2CC(C(O2)COP(=O)(O)O)N=[N+]=[N-]	BCRP_substrate	1										65374
+Lamivudine (3TC)	C1C(OC(S1)CO)N2C=CC(=NC2=O)N	BCRP_substrate	1										60825
+Prazosin	COC1=C(C=C2C(=C1)C(=NC(=N2)N3CCN(CC3)C(=O)C4=CC=CO4)N)OC	BCRP_substrate	1										4893
+Indolocarbazole	C1=CC=C2C(=C1)C3=C4C(=C5C=CC=CC5=N4)C=CC3=N2	BCRP_substrate	1										54413601
+Flavopiridol	CN1CCC(C(C1)O)C2=C(C=C(C3=C2OC(=CC3=O)C4=CC=CC=C4Cl)O)O	BCRP_substrate	1										5287969
+Canertinib (CI1033)	C=CC(=O)NC1=C(C=C2C(=C1)C(=NC=N2)NC3=CC(=C(C=C3)F)Cl)OCCCN4CCOCC4	BCRP_substrate	1										156414
+Imatinib mesylate (STI571)	CC1=C(C=C(C=C1)NC(=O)C2=CC=C(C=C2)CN3CCN(CC3)C)NC4=NC=CC(=N4)C5=CN=CC=C5.CS(=O)(=O)O	BCRP_substrate	1										123596
+Gefitinib (ZD1839)	COC1=C(C=C2C(=C1)N=CN=C2NC3=CC(=C(C=C3)F)Cl)OCCCN4CCOCC4	BCRP_substrate	1										123631
+Nilotinib	CC1=C(C=C(C=C1)C(=O)NC2=CC(=CC(=C2)C(F)(F)F)N3C=C(N=C3)C)NC4=NC=CC(=N4)C5=CN=CC=C5	BCRP_substrate	1										644241
+Glyburide	COC1=C(C=C(C=C1)Cl)C(=O)NCCC2=CC=C(C=C2)S(=O)(=O)NC(=O)NC3CCCCC3	BCRP_substrate	1										3488
+Cimetidine	CC1=C(N=CN1)CSCCNC(=NC)NC#N	BCRP_substrate	1										2756
+Sulfasalazine	O=C(O)c1cc(/N=N/c2ccc(S(=O)(=O)Nc3ccccn3)cc2)ccc1O	BCRP_substrate	1									CHEMBL421	
+Nitrofurantoin	C1C(=O)NC(=O)N1N=CC2=CC=C(O2)[N+](=O)[O-]	BCRP_substrate	1										6604200
+Rosuvastatin	CC(C)C1=NC(=NC(=C1C=CC(CC(CC(=O)O)O)O)C2=CC=C(C=C2)F)N(C)S(=O)(=O)C	BCRP_substrate	1										446157
+Pantoprazole	COC1=C(C(=NC=C1)CS(=O)C2=NC3=C(N2)C=C(C=C3)OC(F)F)OC	BCRP_substrate	1										4679
+Imatinib mesylate	CC1=C(C=C(C=C1)NC(=O)C2=CC=C(C=C2)CN3CCN(CC3)C)NC4=NC=CC(=N4)C5=CN=CC=C5.CS(=O)(=O)O	BCRP_inhibitor	1										123596
+Erlotinib	COCCOC1=C(C=C2C(=C1)C(=NC=N2)NC3=CC=CC(=C3)C#C)OCCOC	BCRP_inhibitor	1										176870
+Nilotinib	CC1=C(C=C(C=C1)C(=O)NC2=CC(=CC(=C2)C(F)(F)F)N3C=C(N=C3)C)NC4=NC=CC(=N4)C5=CN=CC=C5	BCRP_inhibitor	1										644241
+Lapatinib	CS(=O)(=O)CCNCC1=CC=C(O1)C2=CC3=C(C=C2)N=CN=C3NC4=CC(=C(C=C4)OCC5=CC(=CC=C5)F)Cl	BCRP_inhibitor	1										208908
+Ritonavir	CC(C)C1=NC(=CS1)CN(C)C(=O)NC(C(C)C)C(=O)NC(CC2=CC=CC=C2)CC(C(CC3=CC=CC=C3)NC(=O)OCC4=CN=CS4)O	BCRP_inhibitor	1										392622
+Saquinavir	CC(C)(C)NC(=O)[C@@H]1C[C@@H]2CCCC[C@@H]2CN1C[C@@H](O)[C@H](Cc1ccccc1)NC(=O)[C@H](CC(N)=O)NC(=O)c1ccc2ccccc2n1	BCRP_inhibitor	1										441243
+Nelfinavir	Cc1c(O)cccc1C(=O)N[C@@H](CSc1ccccc1)[C@H](O)CN1C[C@H]2CCCC[C@H]2C[C@H]1C(=O)NC(C)(C)C	BCRP_inhibitor	1									CHEMBL584	
+Lopinavir	Cc1cccc(C)c1OCC(=O)N[C@@H](Cc1ccccc1)[C@@H](O)C[C@H](Cc1ccccc1)NC(=O)[C@H](C(C)C)N1CCCNC1=O	BCRP_inhibitor	1									CHEMBL729	
+Boceprevir	CC(C)(C)NC(=O)N[C@H](C(=O)N1C[C@H]2[C@@H]([C@H]1C(=O)NC(CC1CCC1)C(=O)C(N)=O)C2(C)C)C(C)(C)C	BCRP_inhibitor	1									CHEMBL218394	
+Telaprevir	CCC[C@H](NC(=O)[C@@H]1[C@H]2CCC[C@H]2CN1C(=O)[C@@H](NC(=O)[C@@H](NC(=O)c1cnccn1)C1CCCCC1)C(C)(C)C)C(=O)C(=O)NC1CC1	BCRP_inhibitor	1									CHEMBL231813	
+Dipyridamole	OCCN(CCO)c1nc(N2CCCCC2)c2nc(N(CCO)CCO)nc(N3CCCCC3)c2n1	BCRP_inhibitor	1									CHEMBL932	
+Nicardipine	COC(=O)C1=C(C)NC(C)=C(C(=O)OCCN(C)Cc2ccccc2)C1c1cccc([N+](=O)[O-])c1	BCRP_inhibitor	1									CHEMBL1484	
+Nimodipine	COCCOC(=O)C1=C(C)NC(C)=C(C(=O)OC(C)C)C1c1cccc([N+](=O)[O-])c1	BCRP_inhibitor	1									CHEMBL1428	
+Nitrendipine	CCOC(=O)C1=C(C)NC(C)=C(C(=O)OC)C1c1cccc([N+](=O)[O-])c1	BCRP_inhibitor	1									CHEMBL475534	
+Ketoconazole	CC(=O)N1CCN(c2ccc(OCC3COC(Cn4ccnc4)(c4ccc(Cl)cc4Cl)O3)cc2)CC1	BCRP_inhibitor	1									CHEMBL157101	
+Itraconazole	CCC(C)n1ncn(-c2ccc(N3CCN(c4ccc(OCC5COC(Cn6cncn6)(c6ccc(Cl)cc6Cl)O5)cc4)CC3)cc2)c1=O	BCRP_inhibitor	1									CHEMBL64391	
+Fluoconazole	OC(Cn1cncn1)(Cn1cncn1)c1ccc(F)cc1F	BCRP_inhibitor	1									CHEMBL106	
+Cyclosporin A	CCC1C(=O)N(CC(=O)N(C(C(=O)NC(C(=O)N(C(C(=O)NC(C(=O)NC(C(=O)N(C(C(=O)N(C(C(=O)N(C(C(=O)N(C(C(=O)N1)C(C(C)CC=CC)O)C)C(C)C)C)CC(C)C)C)CC(C)C)C)C)C)CC(C)C)C)C(C)C)CC(C)C)C)C	BCRP_inhibitor	1										5284373
+Tacrolimus	C=CC[C@@H]1/C=C(\C)C[C@H](C)C[C@H](OC)[C@H]2O[C@@](O)(C(=O)C(=O)N3CCCC[C@H]3C(=O)O[C@H](/C(C)=C/[C@@H]3CC[C@@H](O)[C@H](OC)C3)[C@H](C)[C@@H](O)CC1=O)[C@H](C)C[C@@H]2OC	BCRP_inhibitor	1									CHEMBL269732	
+Sirolimus	CO[C@H]1C[C@@H]2CC[C@@H](C)[C@@](O)(O2)C(=O)C(=O)N2CCCC[C@H]2C(=O)O[C@H]([C@H](C)C[C@@H]2CC[C@@H](O)[C@H](OC)C2)CC(=O)[C@H](C)/C=C(\C)[C@@H](O)[C@@H](OC)C(=O)[C@H](C)C[C@H](C)/C=C/C=C/C=C/1C	BCRP_inhibitor	1									CHEMBL413	
+Novobiocin	CO[C@@H]1[C@@H](OC(N)=O)[C@@H](O)[C@H](Oc2ccc3c(O)c(NC(=O)c4ccc(O)c(CC=C(C)C)c4)c(=O)oc3c2C)OC1(C)C	BCRP_inhibitor	1									CHEMBL36506	
+Tamoxifen	CC/C(=C(\c1ccccc1)c1ccc(OCCN(C)C)cc1)c1ccccc1	BCRP_inhibitor	1									CHEMBL83	
+Reserpine	COC(=O)[C@H]1[C@H]2C[C@@H]3c4[nH]c5cc(OC)ccc5c4CCN3C[C@H]2C[C@@H](OC(=O)c2cc(OC)c(OC)c(OC)c2)[C@@H]1OC	BCRP_inhibitor	1									CHEMBL772	
+Omeprazole	COc1ccc2[nH]c([S+]([O-])Cc3ncc(C)c(OC)c3C)nc2c1	BCRP_inhibitor	1									CHEMBL1503	
+Pantoprazole	COc1ccnc(C[S+]([O-])c2nc3cc(OC(F)F)ccc3[nH]2)c1OC	BCRP_inhibitor	1									CHEMBL1502	

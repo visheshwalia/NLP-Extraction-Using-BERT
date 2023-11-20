@@ -1,0 +1,166 @@
+Name,Context,Activity
+Mitoxantrone,It was so named because it was initially cloned from a multidrug-resistant breast cancer cell line where it was found to confer resistance to chemotherapeutic agents such as mitoxantrone and topotecan.,BCRP_substrate
+Mitoxantrone,"Substrates of BCRP initially were reported to be a wide range of chemotherapeutics such as mitoxantrone, camptothecin derivates, flavopiridol, and methotrexate (1).",BCRP_substrate
+Topotecan,"In the mammary gland, Bcrp1 has been shown to actively transport drugs (e.g., topotecan and cimetidine)",BCRP_substrate
+Topotecan,"even for well-established BCRP substrates such as topotecan, irinotecan, and nitrofurantoin, clinical studies have not revealed statistically significant effects of the�ABCG2�421C>A SNP on PK of these drugs.",BCRP_substrate
+Topotecan,This is because topotecan is possibly a good BCRP substrate,BCRP_substrate
+Topotecan,It was so named because it was initially cloned from a multidrug-resistant breast cancer cell line where it was found to confer resistance to chemotherapeutic agents such as mitoxantrone and topotecan.,BCRP_substrate
+Irinotecan,"even for well-established BCRP substrates such as topotecan, irinotecan, and nitrofurantoin, clinical studies have not revealed statistically significant effects of the�ABCG2�421C>A SNP on PK of these drugs.",BCRP_substrate
+Methotrexate,Wild-type breast cancer resistance protein (BCRP/ABCG2) is a methotrexate polyglutamate transporter,BCRP_substrate
+Methotrexate,Methotrexate is a substrate of wild-type BCRP only (24).,BCRP_substrate
+Methotrexate,"Substrates of BCRP initially were reported to be a wide range of chemotherapeutics such as mitoxantrone, camptothecin derivates, flavopiridol, and methotrexate (1).",BCRP_substrate
+AZT,Nucleoside and nucleotide analogs such as AZT and lamivudine are also BCRP substrates (1).,BCRP_substrate
+AZT 5′-monophosphate,Nucleoside and nucleotide analogs such as AZT and lamivudine are also BCRP substrates (1).,BCRP_substrate
+Lamivudine (3TC),Nucleoside and nucleotide analogs such as AZT and lamivudine are also BCRP substrates (1).,BCRP_substrate
+Prazosin,"Substrates which share a common binding site within the BCRP homodimer include�doxorubicin,�prazosin, and daunomycin",BCRP_substrate
+Prazosin,"Drugs that have been shown to be BCRP substrates include, among others, prazosin, glyburide, cimetidine, sulfasalazine, and rosuvastatin (1,13).",BCRP_substrate
+Flavopiridol,"Notably, several TKIs such as imatinib, gefitinib, and nilotinib are BCRP substrates (1,13).",BCRP_substrate
+Imatinib mesylate (STI571),"Burger H, van Tol H, Boersma AW, Brok M, Wiemer EA, Stoter G, et al. Imatinib mesylate (STI571) is a substrate for the breast cancer resistance protein (BCRP)/ABCG2 drug pump.�Blood.�2004;104:2940�2942. doi:�10.1182/blood-2004-",BCRP_substrate
+Imatinib mesylate (STI571),"Notably, several TKIs such as imatinib, gefitinib, and nilotinib are BCRP substrates (1,13).",BCRP_substrate
+Gefitinib (ZD1839),"Notably, several TKIs such as imatinib, gefitinib, and nilotinib are BCRP substrates (1,13).",BCRP_substrate
+Nilotinib,"Notably, several TKIs such as imatinib, gefitinib, and nilotinib are BCRP substrates (1,13).",BCRP_substrate
+Glyburide,"Drugs that have been shown to be BCRP substrates include, among others, prazosin, glyburide, cimetidine, sulfasalazine, and rosuvastatin (1,13).",BCRP_substrate
+Cimetidine,"In the mammary gland, Bcrp1 has been shown to actively transport drugs (e.g., topotecan and cimetidine)",BCRP_substrate
+Cimetidine,"Drugs that have been shown to be BCRP substrates include, among others, prazosin, glyburide, cimetidine, sulfasalazine, and rosuvastatin (1,13).",BCRP_substrate
+Sulfasalazine,"Drugs that have been shown to be BCRP substrates include, among others, prazosin, glyburide, cimetidine, sulfasalazine, and rosuvastatin (1,13).",BCRP_substrate
+Nitrofurantoin,"even for well-established BCRP substrates such as topotecan, irinotecan, and nitrofurantoin, clinical studies have not revealed statistically significant effects of the�ABCG2�421C>A SNP on PK of these drugs.",BCRP_substrate
+Rosuvastatin,"Drugs that have been shown to be BCRP substrates include, among others, prazosin, glyburide, cimetidine, sulfasalazine, and rosuvastatin (1,13).",BCRP_substrate
+Doxorubicin,"Substrates which share a common binding site within the BCRP homodimer include�doxorubicin,�prazosin, and daunomycin",BCRP_substrate
+Imatinib mesylate,"TKIs such as imatinib, nilotinib, and apatinib (4) and inhibitors for other type kinases such as the serine/threonine Polo-like kinase 1 inhibitor BI2536 (59) are also potent dual P-gp/BCRP inhibitors.",BCRP_inhibitor
+Nilotinib,"TKIs such as imatinib, nilotinib, and apatinib (4) and inhibitors for other type kinases such as the serine/threonine Polo-like kinase 1 inhibitor BI2536 (59) are also potent dual P-gp/BCRP inhibitors.",BCRP_inhibitor
+Ritonavir,"We were the first to report that the HIV protease inhibitors ritonavir, saquinavir, and nelfinavir are effective BCRP inhibitors (48).",BCRP_inhibitor
+Saquinavir,"We were the first to report that the HIV protease inhibitors ritonavir, saquinavir, and nelfinavir are effective BCRP inhibitors (48).",BCRP_inhibitor
+Nelfinavir,"We were the first to report that the HIV protease inhibitors ritonavir, saquinavir, and nelfinavir are effective BCRP inhibitors (48).",BCRP_inhibitor
+Rosuvastatin,"Among the efflux transporters that could potentially be determinants of rosuvastatin exposure, BCRP, MDR1, or MRP2, BCRP indeed transported rosuvastatin (45).",BCRP_inhibitor
+Apatinib,"Taken together, these results suggest that apatinib significantly inhibits ABCB1- and ABCG2-mediated transport in MDR cells.",BCRP_inhibitor
+Apatinib,"Furthermore, apatinib significantly inhibited the photolabeling of both ABCB1 and ABCG2 with [125I]-iodoarylazidoprazosin in a concentration-dependent fashion.",BCRP_inhibitor
+Apatinib,"In conclusion, apatinib reverses ABCB1- and ABCG2-mediated MDR by inhibiting their transport function",BCRP_inhibitor
+Atorvastatin,"This study characterized and compared the transport of atorvastatin, fluvastatin, pitavastatin, pravastatin, rosuvastatin, and simvastatin acid and four atorvastatin metabolites by six ABC transporters (BCRP, MRP2, MRP3, MRP4, MRP8, P-gp).",BCRP_substrate
+Fluvastatin,"This study characterized and compared the transport of atorvastatin, fluvastatin, pitavastatin, pravastatin, rosuvastatin, and simvastatin acid and four atorvastatin metabolites by six ABC transporters (BCRP, MRP2, MRP3, MRP4, MRP8, P-gp).",BCRP_substrate
+Pitavastatin,"This study characterized and compared the transport of atorvastatin, fluvastatin, pitavastatin, pravastatin, rosuvastatin, and simvastatin acid and four atorvastatin metabolites by six ABC transporters (BCRP, MRP2, MRP3, MRP4, MRP8, P-gp).",BCRP_substrate
+Rosuvastatin,"This study characterized and compared the transport of atorvastatin, fluvastatin, pitavastatin, pravastatin, rosuvastatin, and simvastatin acid and four atorvastatin metabolites by six ABC transporters (BCRP, MRP2, MRP3, MRP4, MRP8, P-gp).",BCRP_substrate
+Simvastatin acid,"This study characterized and compared the transport of atorvastatin, fluvastatin, pitavastatin, pravastatin, rosuvastatin, and simvastatin acid and four atorvastatin metabolites by six ABC transporters (BCRP, MRP2, MRP3, MRP4, MRP8, P-gp).",BCRP_substrate
+Daunomycin,"Substrates which share a common binding site within the BCRP homodimer include�doxorubicin,�prazosin, and daunomycin",BCRP_substrate
+Novobiocin," assaythe efluxx dye assay (efluxx-id® green multi-drug resistance (mdr) assay kit, enzo life sciences, inc., farmingdale, ny, usa) was performed according to the manufacturer’s instructions [26]. briefly, on the day of the assay, cells were collected, washed with pbs, and incubated with or without novobiocin (bcrp inhibitor) in the presence of the efluxx-dye for 30 min at 37 °c. efluxx-dyes are xanthene-based small molecule dyes developed for the detection of mdr activity in living cells. to exclude dead cells in this assay, a propidium iodide (pi) solution was added to the cells during the l",BCRP_inhibitor
+Glyburide,"nstrated the functional activity of the fm cells. the differential functional response of bcrp across fm cells demonstrated that aecs that are directly in contact with amniotic fluid followed by amcs and ctcs can participate in the efflux of xenobiotics and drugs used during pregnancy like statins, glyburide, and sulfasalazine from the fetal to the maternal side. these novel discoveries impact our understanding of pharmacology during pregnancy and have the potential to affect the development and study of current and novel drug therapies used in pregnancy. preliminary data from our laboratory d",BCRP_substrate
+Sulfasalazine,"nctional activity of the fm cells. the differential functional response of bcrp across fm cells demonstrated that aecs that are directly in contact with amniotic fluid followed by amcs and ctcs can participate in the efflux of xenobiotics and drugs used during pregnancy like statins, glyburide, and sulfasalazine from the fetal to the maternal side. these novel discoveries impact our understanding of pharmacology during pregnancy and have the potential to affect the development and study of current and novel drug therapies used in pregnancy. preliminary data from our laboratory demonstrated tha",BCRP_substrate
+Propidium,"ls were collected, washed with pbs, and incubated with or without novobiocin (bcrp inhibitor) in the presence of the efluxx-dye for 30 min at 37 °c. efluxx-dyes are xanthene-based small molecule dyes developed for the detection of mdr activity in living cells. to exclude dead cells in this assay, a propidium iodide (pi) solution was added to the cells during the last 5 min of incubation in some of the experiments. after incubation, cells were simply spun down (1 min, 200 g) to remove the excess probe, resuspended in an ice-cold medium, and kept on ice until flow cytometry was performed. the fl",BCRP_inhibitor
+Doxorubicin," canalicular membrane of hepatocytes as
+well as in the intestine, breast, and placenta.3 bcrp substrates include glucuronide and sulfate conjugates
+[e.g., estrone-sulfate, estradiol-17β-d-glucuronide
+(e217g), sn-38 glucuronide], anticancer drugs (e.g., irinotecan,
+sn-38, methotrexate, daunorubicin, doxorubicin), and some statins
+[e.g., pitavastatin, rosuvastatin (rsv)].4−9 the pharmacokinetics and pharmacodynamics of these drugs may be
+affected by modulation of bcrp expression and/or function resulting
+from genetic polymorphisms or drug–drug interactions (ddis).multidrug resistance-associated ",BCRP_substrate
+Daunorubicin,"pressed in the canalicular membrane of hepatocytes as
+well as in the intestine, breast, and placenta.3 bcrp substrates include glucuronide and sulfate conjugates
+[e.g., estrone-sulfate, estradiol-17β-d-glucuronide
+(e217g), sn-38 glucuronide], anticancer drugs (e.g., irinotecan,
+sn-38, methotrexate, daunorubicin, doxorubicin), and some statins
+[e.g., pitavastatin, rosuvastatin (rsv)].4−9 the pharmacokinetics and pharmacodynamics of these drugs may be
+affected by modulation of bcrp expression and/or function resulting
+from genetic polymorphisms or drug–drug interactions (ddis).multidrug resistan",BCRP_substrate
+Irinotecan,"or oligomer.1,2 bcrp
+is highly expressed in the canalicular membrane of hepatocytes as
+well as in the intestine, breast, and placenta.3 bcrp substrates include glucuronide and sulfate conjugates
+[e.g., estrone-sulfate, estradiol-17β-d-glucuronide
+(e217g), sn-38 glucuronide], anticancer drugs (e.g., irinotecan,
+sn-38, methotrexate, daunorubicin, doxorubicin), and some statins
+[e.g., pitavastatin, rosuvastatin (rsv)].4−9 the pharmacokinetics and pharmacodynamics of these drugs may be
+affected by modulation of bcrp expression and/or function resulting
+from genetic polymorphisms or drug–drug inter",BCRP_substrate
+Pitavastatin,"s
+well as in the intestine, breast, and placenta.3 bcrp substrates include glucuronide and sulfate conjugates
+[e.g., estrone-sulfate, estradiol-17β-d-glucuronide
+(e217g), sn-38 glucuronide], anticancer drugs (e.g., irinotecan,
+sn-38, methotrexate, daunorubicin, doxorubicin), and some statins
+[e.g., pitavastatin, rosuvastatin (rsv)].4−9 the pharmacokinetics and pharmacodynamics of these drugs may be
+affected by modulation of bcrp expression and/or function resulting
+from genetic polymorphisms or drug–drug interactions (ddis).multidrug resistance-associated protein 2 (mrp2) is another member
+of ",BCRP_substrate
+Digoxin,"enoviral vector system resulted
+in high infection efficiency leading to high knockdown efficiency.27 rat sch infected with adenoviral vectors expressing
+shrna targeting bcrp exhibited a significant decrease in protein expression
+and activity of this canalicular transport protein; the disposition
+of digoxin, a p-gp substrate, and the expression of some other transport
+proteins was not affected.28to date,
+primary hepatocyte models lacking multiple transport proteins
+have not been established. such a model may be of particular importance
+if it mimics the physiological condition when an administer",BCRP_substrate
+Tariquidar,"on is therefore likely of an allosteric nature.steric clashes of inhibitors in turnover-2 stateour structures provide additional insight into the mechanism of small-molecule inhibitors of abcg2. previous structures revealed that the inhibitors mz29 (a derivative of ko143) and mb136 (a derivative of tariquidar) bound to cavity 1 of inward-open abcg2, which was bound to 5d3-fab20. we find that while the size of cavity 1 in our turnover-1 structure is slightly smaller than that of the fully inward-open conformation, only minor steric clashes would exist with the tert-butyl group of mz29. in contr",BCRP_inhibitor
+Hydroxychloroquine,"test autophagy inhibitors as chemosensitizers for other antitumor regimens.45 our studies suggest that this combination could be particularly important for abcg2-expressing tumors due to their high levels of autophagy. additionally, it is interesting to note that the majority of these trials employ hydroxychloroquine (hcq) as the autophagy inhibitor, due to its well-established safety profile. however, hcq is a known substrate of abcg2 46 and failed to inhibit autophagy in our abcg2-expressing cells (data not shown). if these in vitro observations are borne out in the in vivo setting, it may b",BCRP_substrate
+Cyclosporine,"itro, administration of clinically applicable inhibitors of abcb1-mediated drug transport, including psc-833 and zosuquidar, in conjunction with chemotherapy in clinical trials in aml unfortunately did not improve treatment outcomes [4-8]. one possible reason is lack of inhibition of abcg2 [9, 10]. cyclosporine a, which inhibits both abcb1 and abcg2, as well as other drug resistance proteins [11], improved treatment outcomes in some [12-14], but not all [15], clinical trials. given the strong association of abcb1 and abcg2 overexpression with treatment failure in aml, exploration of inhibitors",BCRP_inhibitor
+Cytarabine,"rubicin, with rmfs of 2.9 and 4.0 (figure 3c), respectively. in contrast, sgi-1776 did not sensitize parental hl60 or k562 cells to daunorubicin (figure 3c) or mitoxantrone (figure 3b, middle panel) and did not sensitize abcg2- or abcb1-overexpressing cells to the abcg2 and abcb1 non-substrate drug cytarabine (figure 3, b and c, right panels). thus sgi-1776 enhances the cytotoxic effects of abcg2, as well as abcb1, substrate, but not non-substrate, chemotherapy drugs in cells with abcg2 or abcb1 expression, respectively, but not in parental cells.3.4. sgi-1776 sensitizes abcg2-, as well as abc",BCRP_inhibitor
+Imatinib,"an be explained by sgi-1776 inhibiting its own transport, as evidenced by its effects on [125i]-iaap binding and atpase activity.a number of therapeutically active kinase inhibitors have been demonstrated to be inhibitors and/or substrates of abcb1 and/or abcg2. these include the bcr-abl inhibitors imatinib mesylate, nilotinib and dasatinib [49-55] and the fms-like tyrosine kinase 3 (flt3) inhibitors pkc412 or midostaurin [56], tandutinib [57], sorafenib [58] and sunitinib [59], as well as inhibitors used in therapy of solid tumors. additionally, we recently demonstrated that the novel bcr-abl",BCRP_inhibitor
+Nilotinib,"sgi-1776 inhibiting its own transport, as evidenced by its effects on [125i]-iaap binding and atpase activity.a number of therapeutically active kinase inhibitors have been demonstrated to be inhibitors and/or substrates of abcb1 and/or abcg2. these include the bcr-abl inhibitors imatinib mesylate, nilotinib and dasatinib [49-55] and the fms-like tyrosine kinase 3 (flt3) inhibitors pkc412 or midostaurin [56], tandutinib [57], sorafenib [58] and sunitinib [59], as well as inhibitors used in therapy of solid tumors. additionally, we recently demonstrated that the novel bcr-abl and flt3 inhibitor",BCRP_inhibitor
+Dasatinib,"iting its own transport, as evidenced by its effects on [125i]-iaap binding and atpase activity.a number of therapeutically active kinase inhibitors have been demonstrated to be inhibitors and/or substrates of abcb1 and/or abcg2. these include the bcr-abl inhibitors imatinib mesylate, nilotinib and dasatinib [49-55] and the fms-like tyrosine kinase 3 (flt3) inhibitors pkc412 or midostaurin [56], tandutinib [57], sorafenib [58] and sunitinib [59], as well as inhibitors used in therapy of solid tumors. additionally, we recently demonstrated that the novel bcr-abl and flt3 inhibitor ponatinib is ",BCRP_inhibitor
+Midostaurin,"tpase activity.a number of therapeutically active kinase inhibitors have been demonstrated to be inhibitors and/or substrates of abcb1 and/or abcg2. these include the bcr-abl inhibitors imatinib mesylate, nilotinib and dasatinib [49-55] and the fms-like tyrosine kinase 3 (flt3) inhibitors pkc412 or midostaurin [56], tandutinib [57], sorafenib [58] and sunitinib [59], as well as inhibitors used in therapy of solid tumors. additionally, we recently demonstrated that the novel bcr-abl and flt3 inhibitor ponatinib is a potent inhibitor of abcg2, a less potent inhibitor of abcb1, and a substrate of",BCRP_inhibitor
+Tandutinib,"umber of therapeutically active kinase inhibitors have been demonstrated to be inhibitors and/or substrates of abcb1 and/or abcg2. these include the bcr-abl inhibitors imatinib mesylate, nilotinib and dasatinib [49-55] and the fms-like tyrosine kinase 3 (flt3) inhibitors pkc412 or midostaurin [56], tandutinib [57], sorafenib [58] and sunitinib [59], as well as inhibitors used in therapy of solid tumors. additionally, we recently demonstrated that the novel bcr-abl and flt3 inhibitor ponatinib is a potent inhibitor of abcg2, a less potent inhibitor of abcb1, and a substrate of both proteins, co",BCRP_inhibitor
+Sorafenib,"tically active kinase inhibitors have been demonstrated to be inhibitors and/or substrates of abcb1 and/or abcg2. these include the bcr-abl inhibitors imatinib mesylate, nilotinib and dasatinib [49-55] and the fms-like tyrosine kinase 3 (flt3) inhibitors pkc412 or midostaurin [56], tandutinib [57], sorafenib [58] and sunitinib [59], as well as inhibitors used in therapy of solid tumors. additionally, we recently demonstrated that the novel bcr-abl and flt3 inhibitor ponatinib is a potent inhibitor of abcg2, a less potent inhibitor of abcb1, and a substrate of both proteins, consistent with com",BCRP_inhibitor
+Sunitinib,"se inhibitors have been demonstrated to be inhibitors and/or substrates of abcb1 and/or abcg2. these include the bcr-abl inhibitors imatinib mesylate, nilotinib and dasatinib [49-55] and the fms-like tyrosine kinase 3 (flt3) inhibitors pkc412 or midostaurin [56], tandutinib [57], sorafenib [58] and sunitinib [59], as well as inhibitors used in therapy of solid tumors. additionally, we recently demonstrated that the novel bcr-abl and flt3 inhibitor ponatinib is a potent inhibitor of abcg2, a less potent inhibitor of abcb1, and a substrate of both proteins, consistent with competitive inhibition",BCRP_inhibitor
+Rosuvastatin,"older drugs including many statins are substrates of bcrp, and its variation in expression and activity can have a major impact on the efficacy and safety of these medications. in fact, there is perhaps no better example of the triumph and swift nature of reverse translational research than that of rosuvastatin and bcrp. while the average time to develop a drug is 10-12 years, the time it took to change the drug product insert based on observed ethnic differences in exposure to rosuvastatin was only two years (35). perhaps more impressively, it would seem as though these observed ethnic differ",BCRP_substrate
+Methotrexate," role, abcg2 variants have been associated with other phenotypes in gwas including response to the anti-gout medication, allopurinol. these studies suggest the potential for future reverse translational studies to further elucidate the role of bcrp in the disposition of other drugs, beyond statins, methotrexate and allopurinol, which are substrates of the transporter.bcrp's endogenous role has also been identified via gene expression studies, regardless of genotypic variation. expression levels in brain tissues with alzheimer's disease identified the upregulation of bcrp as a potential protect",BCRP_substrate
+Allopurinol,"
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+genome-wide association study identifies abcg2 (bcrp) as an allopurinol transporter and a determinant of drug response - pmc
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+clin pharmacol ther. author manuscript; available in pmc 2015 jun 24.published in final edited form as:clin pharmacol ther. 2015 may; 97(5): 518–525. published online 2015 apr 6.  doi: 10.1002/cpt.89: ",BCRP_substrate
+Furosemide,", physiological changes such as prolonged get, and increased blood and bile flow cannot be simulated in dissolution studies, which is often the cause of disconnect between in vitro and in vivo data [21,35,36]. for example, the dissolution study of a breast cancer resistant protein (bcrp) substrate, furosemide, in simulated gastric fluid showed ~70-fold higher solubility in the fed versus fasted state [35], contrary to a 45% decrease in the auc in the fed state in humans [37] (figure 1). considering the clinical implications of fe, it is crucial to develop a deeper understanding of the plausibl",BCRP_substrate
+Zosuquidar,"ed from primary normal and pd rcmecs under contact co-culture with c6 astroglial cells on the transwell supports. the differences in bbb properties and permeability of flz in the two models were tested. the contributions of p-gp and bcrp to flz transport were evaluated by examining the influence of zosuquidar and fumitremorgin c (ftc), the p-gp and bcrp specific inhibitors, on the bbb permeability of flz in the physiological and pd pathological in vitro bbb models. moreover, to further confirm the results, drug efflux transporter membrane atpase assays had been done.materials and methodsreagen",BCRP_inhibitor
+Verapamil,"ite opaque 96-well multiplates in triplicate. recombinant human p-gp or bcrp membrane (5 mg/ml) was quickly thawed and diluted to 1 mg/ml with assay buffer. sodium orthovanadate (na3vo4) was used as a atpase inhibitor. various concentrations of flz or inhibitors(5 µm zosuquidar, 10 µm ftc or 100 µm verapamil)diluted with assay buffer were incubated in 20 µg (20 µl) diluted recombinant human pgp or bcrp membrane at 37°c for 5 minutes. initiate reactions by adding 20 µl of 15 mm mg2+atp to all wells. at this point, each pgp reaction contains 5 mm atp. mix briefly on a plate shaker or by gently t",BCRP_inhibitor
+Elacridar,"cient, indicating linear distribution kinetics in mice over this concentration range. furthermore, the distribution of sunitinib to the brain increased after administration of selective p-glycoprotein (p-gp) or breast cancer resistance protein (bcrp) pharmacological inhibitors and a dual inhibitor, elacridar, comparable to that of the corresponding transgenic genotype. the brain-to-plasma ratio after coadministration of elacridar in wild-type mice was ∼12 compared with ∼17.3 in mdr1a/b(−/−)bcrp1(−/−) mice. overall, these findings indicate that there is a cooperation at the blood-brain barrier ",BCRP_inhibitor
+Mitoxantrone,"-dependent transporters involved in absorption, distribution, and excretion of drugs and in cancer drug resistance (1). abcg2 is a member of the g subfamily of human abc transporters and is a half-transporter that must dimerize for function (2). abcg2 transports numerous anticancer agents including mitoxantrone, etoposide, topotecan, and tyrosine kinase inhibitors (3). in addition, abcg2 substrates include antivirals, antibiotics, and toxins, highlighting the apparent role of abcg2 transporters in normal tissue protection, including the blood–brain and maternal–fetal barriers. it has also been",BCRP_substrate
+Etoposide,"nsporters involved in absorption, distribution, and excretion of drugs and in cancer drug resistance (1). abcg2 is a member of the g subfamily of human abc transporters and is a half-transporter that must dimerize for function (2). abcg2 transports numerous anticancer agents including mitoxantrone, etoposide, topotecan, and tyrosine kinase inhibitors (3). in addition, abcg2 substrates include antivirals, antibiotics, and toxins, highlighting the apparent role of abcg2 transporters in normal tissue protection, including the blood–brain and maternal–fetal barriers. it has also been observed that",BCRP_substrate
+Topotecan,"nvolved in absorption, distribution, and excretion of drugs and in cancer drug resistance (1). abcg2 is a member of the g subfamily of human abc transporters and is a half-transporter that must dimerize for function (2). abcg2 transports numerous anticancer agents including mitoxantrone, etoposide, topotecan, and tyrosine kinase inhibitors (3). in addition, abcg2 substrates include antivirals, antibiotics, and toxins, highlighting the apparent role of abcg2 transporters in normal tissue protection, including the blood–brain and maternal–fetal barriers. it has also been observed that abcg2 may ",BCRP_substrate
+Elacridar,"rotein (bcrp; abcg2) at their apical membrane than mdck cells (takada et al., 2005; giri et al., 2009), which might contribute to basolateral-to-apical drug transport in mdr1-transfected llc cells. pgp and bcrp mediated drug transport cannot be differentiated by pgp inhibitors such as tariquidar or elacridar, because these ‘third generation’ pgp inhibitors also inhibit bcrp (kühnle et al., 2009). however, bcrp-selective inhibitors, such as ko143, are available (allen et al., 2002) and can be used to avoid interference from bcrp in transport studies with llc cells. in mdck-mdr1 cells, no bcrp-m",BCRP_inhibitor
+Cyclosporine,"monolayers, in the concentration range 0.05–10 mm in both apical–basolateral (ap–bl) and bl–ap directions, and the transport constants of p-glycoprotein (p-gp) efflux activity were calculated. the concentration-dependent effects of various p-gp (verapamil, quinidine, erythromycin, ketoconazole, and cyclosporine a), multidrug resistant-associated protein 2 (mrp2; mk-571, probenecid, indomethacin, and p-aminohipuric acid), and breast cancer resistance protein (bcrp; fumitremorgin c) inhibitors on nizatidine bidirectional transport were examined. nizatidine exhibited 7.7-fold higher bl–ap than ap",BCRP_inhibitor
+Ketoconazole,"monolayers, in the concentration range 0.05–10 mm in both apical–basolateral (ap–bl) and bl–ap directions, and the transport constants of p-glycoprotein (p-gp) efflux activity were calculated. the concentration-dependent effects of various p-gp (verapamil, quinidine, erythromycin, ketoconazole, and cyclosporine a), multidrug resistant-associated protein 2 (mrp2; mk-571, probenecid, indomethacin, and p-aminohipuric acid), and breast cancer resistance protein (bcrp; fumitremorgin c) inhibitors on nizatidine bidirectional transport were examined. nizatidine exhibited 7.7-fold higher bl–ap than ap",BCRP_inhibitor
