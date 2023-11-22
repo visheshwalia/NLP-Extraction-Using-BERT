@@ -36,7 +36,7 @@ To check the validity of the results, the following steps are taken:
 **Metrics Summary:** The code generates a metrics summary that includes the team's name, contact information, the number of samples processed, the number of references retrieved, the number of inhibitors and substrates predicted, the percentage of minority class samples, the number of drugs with available Canonical SMILES, and the percentage of drugs with SMILES available.
 
 ## Adapting Code to Different Proteins or Topics:
-Our code is like a chameleon, easily adaptable to study other proteins or dive into different topics. All it takes is tweaking the search queries for a new protein or topic, and giving our BERT model a fresh set of data to learn from.
+Our code is like a chameleon, easily adaptable to study other proteins or dive into different topics. All it takes is tweaking the search queries for a new protein or topic, and giving our BERT model a fresh set of data to learn from. Whole workflow is fully automated and can be scheduled to run at any desired time without manual intervention.
 
 We've crafted our code with flexibility in mind, dividing it into functions that can be tweaked for various scenarios:
 
