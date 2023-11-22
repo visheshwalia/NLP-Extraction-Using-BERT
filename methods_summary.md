@@ -7,6 +7,8 @@ The code utilizes various resources in its workflow:
 
 **BERT Model:** The code employs a pre-trained BERT (Bidirectional Encoder Representations from Transformers) model for text classification. It predicts whether a drug is a substrate or an inhibitor of the BCRP transporter based on the drug's context within the articles.
 
+**Named Entity Recognition Tool:** Drug named entity recognition Python library by Fast Data Science.
+
 **Bioinformatics Libraries:** Libraries such as Biopython (for PubMed Central access) and BeautifulSoup (for HTML parsing) are used for data retrieval and preprocessing.
 
 ## Method of Document Searching and Collection:
